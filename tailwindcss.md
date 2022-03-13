@@ -58,15 +58,35 @@ module.exports = {
 import "tailwindcss/tailwind.css"
 ```
 
-
 ### UI效果、IDE效果
 ![UI浏览效果](https://raw.githubusercontent.com/tiger-mini/assets/main/img/tailwindwcss-UI.png)
 
 ![IDE开发效果](https://raw.githubusercontent.com/tiger-mini/assets/main/img/tailwindwcss-ide.png)
 
 
+### 生产环境上去掉未使用的类，简单的一个配置即可
+
+> 为生产而构建时，请确保配置清除 (purge) 选项以删除任何未使用类，这样生成的文件尺寸最小：
+
+```
+// tailwind.config.js
+purge: [
+ './src/**/*.html',
+ './src/**/*.js',
+]
+```
+
+查看官网 [生成您的css](tailwindcss.cn/docs/installation#css)
+
+
+
 
 ### 引用
+
+[tailwindcss 中文](https://www.tailwindcss.cn/)
+
+[tailwindcss 英文](https://tailwindcss.com/)
+
 [如何评价CSS框架TailwindCSS？](https://www.zhihu.com/question/337939566/answers/updated)
 
 [tailwindcss在Vue中的简单上手](https://godlanbo.com/blogs/25)
