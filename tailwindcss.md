@@ -68,6 +68,14 @@ import "tailwindcss/tailwind.css"
 
 > 为生产而构建时，请确保配置清除 (purge) 选项以删除任何未使用类，这样生成的文件尺寸最小：
 
+
+看下前后打包文件vender.css的大小
+配置前
+![vender css 大小](https://raw.githubusercontent.com/tiger-mini/assets/main/img/tailwindwcss-build-asset-raw.png)
+配置后
+![vender css 大小](https://raw.githubusercontent.com/tiger-mini/assets/main/img/tailwindwcss-build-asset.png)
+
+
 ```
 // tailwind.config.js
 purge: [
@@ -77,8 +85,6 @@ purge: [
 ```
 
 查看官网 [生成您的css](tailwindcss.cn/docs/installation#css)
-
-
 
 
 ### 引用
