@@ -56,3 +56,22 @@ yarn add eslint-plugin-simple-import-sort -D
 	...,
 }
 
+
+### 效果
+
+前 
+![eslint前](https://raw.githubusercontent.com/tiger-mini/assets/main/img/eslint-import-before.png)
+
+
+后
+![eslint后](https://raw.githubusercontent.com/tiger-mini/assets/main/img/eslint-import-after.gif)
+
+
+
+
+
+### 引用
+
+1、[使用 eslint 自动调整 import 代码顺序](https://blog.csdn.net/xs20691718/article/details/116526372)
+
+2、[eslint官网](https://eslint.org/docs/rules/sort-imports#rule-details)
