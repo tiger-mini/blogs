@@ -62,3 +62,10 @@ npm install husky lint-staged prettier --save-dev
 这样，当在终端输入 git commit命令提交代码的时，Lint 程序便会自动检查本次提交所修改的文件是否符合本项目的代码规范。如果代码不符合规范，便会拒绝提交代码。
 
 如果想要跳过 Lint 程序，可以使用 git commit -no-verify 进行提交。
+
+
+
+
+### 引用
+
+[Pre-commit：如何使用 husky、lint-staged和prettier优化你的项目](https://blog.csdn.net/flitrue/article/details/106328972)
