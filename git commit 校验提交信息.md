@@ -58,12 +58,12 @@ module.exports = {
 // package.json
 {
     ... ,
-	"husky": {
-	    "hooks": {
-	      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    "husky": {
+       "hooks": {
+              "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
 	    }
 	},
-	...
+    ...
 }
 ```
 
@@ -74,7 +74,7 @@ module.exports = {
 ![error msg](https://raw.githubusercontent.com/tiger-mini/assets/main/img/commit-msg.png)
 
 
-安规范提交后正常
+按规范提交后正常
 
 ![success](https://raw.githubusercontent.com/tiger-mini/assets/main/img/commit-msg-success.png)
 
