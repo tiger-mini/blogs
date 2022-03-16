@@ -51,3 +51,4 @@ ykj-h5-cli init <folder-name>
 
 
 
+以上步骤完成之后就出现了最初的效果。
