@@ -21,7 +21,7 @@ ykj-h5-folder init <folder-name>
 
 然后 再对应的文件夹目录下执行该命令。如下效果
 
-![cmd init](https://raw.githubusercontent.com/tiger-mini/assets/main/img/webstorm%20menu%20quick%20init%20step%202.png)
+![cmd init](https://raw.githubusercontent.com/tiger-mini/assets/main/img/webstorm%20menu%20cmd%20init.gif)
 
 
 有了以上条件之后，就可以进行webstorm的配置了
@@ -33,7 +33,7 @@ ykj-h5-folder init <folder-name>
 
 ##### 1、Setting > Tool > External Tools
 
-![External Tools](https://raw.githubusercontent.com/tiger-mini/assets/main/img/webstorm%20menu%20cmd%20init.gif)
+![External Tools](https://raw.githubusercontent.com/tiger-mini/assets/main/img/webstorm%20menu%20quick%20init%20step%201.png)
 
 
 
