@@ -16,7 +16,7 @@
 
 
 ```
-ykj-h5-cli init <folder-name>
+ykj-h5-folder init <folder-name>
 ```
 
 然后 再对应的文件夹目录下执行该命令。如下效果
@@ -33,13 +33,13 @@ ykj-h5-cli init <folder-name>
 
 ##### 1、Setting > Tool > External Tools
 
-！[External Tools](https://raw.githubusercontent.com/tiger-mini/assets/main/img/webstorm%20menu%20quick%20init%20step%201.png)
+![External Tools](https://raw.githubusercontent.com/tiger-mini/assets/main/img/webstorm%20menu%20quick%20init%20step%201.png)
 
 
 
 ##### 3、点击 + 图标 进行信息录入
 
-！[add External](https://raw.githubusercontent.com/tiger-mini/assets/main/img/webstorm%20menu%20quick%20init%20step%202.png)
+![add External](https://raw.githubusercontent.com/tiger-mini/assets/main/img/webstorm%20menu%20quick%20init%20step%202.png)
 
 
 
